@@ -28,3 +28,8 @@
 .texto {
     color: green;
 }
+
+.botao {
+    background-color: blue;
+    color: white;
+}
